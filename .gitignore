@@ -8,10 +8,10 @@
 *.userosscache
 *.sln.docstates
 
-*/.vs
+#*/.vs
 /JsonCherryPiack/.vs/JsonCherryPiack/v15/Server/sqlite3/db.lock
 /JsonCherryPiack/bin
 /JsonCherryPiack/obj
 /JsonCherryPiack/packages
-/JsonCherryPiack/.vs
-/JsonCherryPiack/.vs/
+#/JsonCherryPiack/.vs
+#/JsonCherryPiack/.vs/
