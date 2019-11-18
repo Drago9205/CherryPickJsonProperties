@@ -1,0 +1,9 @@
+C:\V1 Projects\Personal\TestJsonCherryPick\JsonCherryPiack\bin\Debug\JsonCherryPiack.exe.config
+C:\V1 Projects\Personal\TestJsonCherryPick\JsonCherryPiack\bin\Debug\JsonCherryPiack.exe
+C:\V1 Projects\Personal\TestJsonCherryPick\JsonCherryPiack\bin\Debug\JsonCherryPiack.pdb
+C:\V1 Projects\Personal\TestJsonCherryPick\JsonCherryPiack\bin\Debug\Newtonsoft.Json.dll
+C:\V1 Projects\Personal\TestJsonCherryPick\JsonCherryPiack\bin\Debug\Newtonsoft.Json.xml
+C:\V1 Projects\Personal\TestJsonCherryPick\JsonCherryPiack\obj\Debug\JsonCherryPiack.csprojAssemblyReference.cache
+C:\V1 Projects\Personal\TestJsonCherryPick\JsonCherryPiack\obj\Debug\JsonCherryPiack.csproj.CopyComplete
+C:\V1 Projects\Personal\TestJsonCherryPick\JsonCherryPiack\obj\Debug\JsonCherryPiack.exe
+C:\V1 Projects\Personal\TestJsonCherryPick\JsonCherryPiack\obj\Debug\JsonCherryPiack.pdb
