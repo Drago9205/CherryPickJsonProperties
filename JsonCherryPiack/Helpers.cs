@@ -10,7 +10,9 @@ namespace JsonCherryPiack
             "DwellingDataId",
             "DwellingAddress",
             "UValue",
-            "RenewPrimaryEnergy3"
+            "RenewPrimaryEnergy3",
+            "WindowData",
+            "ID"
         };
 
         public static string Input2 => @"

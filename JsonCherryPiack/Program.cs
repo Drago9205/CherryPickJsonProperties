@@ -16,10 +16,16 @@ namespace JsonCherryPiack
         
         public static void Traverse(JToken token, string[] fields)
         {
-            JContainer container = token as JContainer;
             //Get current json parent element as property and keep it if contained in the list of fields to select
+            //Remove this check in case only leafs of the json tree need to be filtered
             var tokenProperty = token as JProperty;
-            if (container == null || (tokenProperty != null && fields.Contains(tokenProperty.Name)))
+            if(tokenProperty != null && fields.Contains(tokenProperty.Name))
+            {
+                return;
+            }
+
+            JContainer container = token as JContainer;
+            if (container == null)
             {
                 return;
             }
